@@ -1,4 +1,4 @@
 function changeBackground() {
-    const button = document.getElementsByTagName("button")[0];
+    const button = document.getElementsById("button");
     button.style.background = "pink";
   }
