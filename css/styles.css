@@ -1,0 +1,79 @@
+body {
+    margin: 150px;
+    text-align: center;
+    font-family: Monaco;
+     background: url('https://th.bing.com/th/id/R.9ed18ef61438469aaa93f9566b243786?rik=Lq6l3idXSiloXg&riu=http%3a%2f%2fwww.homedepot.com%2fcatalog%2fproductImages%2f400%2fc2%2fc23d456a-9323-4391-8808-6d529eb0f4f0_400.jpg&ehk=ddgoJHt4bVBQAfWTnHi6PjvJzIqI0Llsjv7Aojg9MW8%3d&risl=&pid=ImgRaw&r=0');
+    color: #d0d0d0;
+  }
+  
+  
+  ul {
+     background-image: url('https://th.bing.com/th/id/R.675b2e48dd9d6fc542c95cfa61964edc?rik=U4CipJhFFPAq9A&riu=http%3a%2f%2fwallpapercave.com%2fwp%2frhEPsyq.jpg&ehk=HVa4zTEBd79O3SMUyn6lG5obWFZRo72nUpyX%2fO3gqyc%3d&risl=&pid=ImgRaw&r=0');
+    opacity: 0.5;
+    justify-content: center;
+    display: flex;
+    list-style: none;
+  }
+  
+  li {
+    width: 100px;
+    margin: 15px;
+  }
+  
+  h1 {
+    color: #f5fffa;
+     background-image: url('https://th.bing.com/th/id/R.675b2e48dd9d6fc542c95cfa61964edc?rik=U4CipJhFFPAq9A&riu=http%3a%2f%2fwallpapercave.com%2fwp%2frhEPsyq.jpg&ehk=HVa4zTEBd79O3SMUyn6lG5obWFZRo72nUpyX%2fO3gqyc%3d&risl=&pid=ImgRaw&r=0');
+    border: none;
+    border-width: 80px;
+    padding: 50px;
+    border-radius: 5px;
+    font-size: 48px;
+  }
+  
+  h2 {
+    color:  #f5fffa;
+    background-image: url('https://th.bing.com/th/id/R.675b2e48dd9d6fc542c95cfa61964edc?rik=U4CipJhFFPAq9A&riu=http%3a%2f%2fwallpapercave.com%2fwp%2frhEPsyq.jpg&ehk=HVa4zTEBd79O3SMUyn6lG5obWFZRo72nUpyX%2fO3gqyc%3d&risl=&pid=ImgRaw&r=0');
+    font-size: 30px;
+    padding: 20px;
+    margin: 10px 50px;
+    border: none;
+    border-radius: 5px;
+  }
+  p {
+    color: #f5fffa;
+    padding: 20px;
+  }
+  
+  img {
+    width: 300px;
+  }
+  
+  code {
+    color: #f5fffa;
+     background-image: url('https://th.bing.com/th/id/R.675b2e48dd9d6fc542c95cfa61964edc?rik=U4CipJhFFPAq9A&riu=http%3a%2f%2fwallpapercave.com%2fwp%2frhEPsyq.jpg&ehk=HVa4zTEBd79O3SMUyn6lG5obWFZRo72nUpyX%2fO3gqyc%3d&risl=&pid=ImgRaw&r=0');
+    border-radius: 3px;
+    font-family: Monaco;
+    padding: 0 3px;
+  }
+  code:hover {
+    color: gray;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #f5fffa;
+    font-family:  Monaco;
+  }
+  
+  a:hover {
+    color: gray;
+  }
+  
+  footer {
+    color: white;
+    float: right;
+    font-size: 10px;
+    font-style: italic;
+    opacity: 0.5;
+  }
+  
